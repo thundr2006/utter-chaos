@@ -8,6 +8,7 @@ I'll start things off with my favourite game!
 * Ark Surival Evolved 
 * Armored Core 6
 * Balatro
+* Baldur's Gate
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow

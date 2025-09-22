@@ -6,4 +6,17 @@ I'll start things off with my favourite game!
 
 ## The List
 
+* Balatro
 * Bloodborne
+* Celeste
+* Cyberpunk 2077
+* Hades 1
+* Haste
+* Hollow Knight
+* Katana ZERO
+* Neon White
+* Risk of rain 2
+* Satisfactory
+* Splatoon 3
+* ULTRAKILL
+* UNBEATABLE

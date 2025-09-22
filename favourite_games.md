@@ -12,6 +12,7 @@ I'll start things off with my favourite game!
 * Deltarune
 * Marvel Rivals
 * Ni no kuni wrath of the white witch
+* Persona 5 Strikers
 * Portal 2
 * Rocket League
 * Slime Rancher  (1 and 2)

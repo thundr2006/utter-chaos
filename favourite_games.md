@@ -6,6 +6,7 @@ I'll start things off with my favourite game!
 
 ## The List
 * Ark Surival Evolved 
+* Bayonetta 2
 * Bloodborne
 * Broken Arrow
 * Cities: Skylines

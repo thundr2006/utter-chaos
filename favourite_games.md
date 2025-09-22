@@ -7,7 +7,13 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* cult of the lamb
 * Cyberpunk
-* Portal 2
+* Deltarune
 * Marvel Rivals
+* Ni no kuni wrath of the white witch
+* Portal 2
+* Rocket League
 * Slime Rancher  (1 and 2)
+* Team Fortress 2
+* Transformers: Fall of Cybertron

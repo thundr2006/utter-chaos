@@ -8,3 +8,4 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Ghost of Tsushima 
+* Portal 2

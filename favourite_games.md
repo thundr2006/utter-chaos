@@ -12,6 +12,7 @@ I'll start things off with my favourite game!
 * cult of the lamb
 * Cyberpunk
 * Deltarune
+* Ghost of Tsushima 
 * Initial D: Special Stage
 * Marvel Rivals
 * Ni no kuni wrath of the white witch

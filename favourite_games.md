@@ -6,6 +6,12 @@ I'll start things off with my favourite game!
 
 ## The List
 
+* Armored Core 6
 * Bloodborne
-* Bioshock
-* deadlock (#1 moba fight me)
+* Dark Souls
+* Dark Souls 2
+* Dark Souls 3
+* Demon Souls
+* Elden Ring
+* Sekiro
+* Terraria (Calamity Mod)

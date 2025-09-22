@@ -10,6 +10,7 @@ I'll start things off with my favourite game!
 * cult of the lamb
 * Deltarune
 * Ni no kuni wrath of the white witch
+* Persona 5 Strikers
 * Portal 2
 * Team Fortress 2
 * Transformers: Fall of Cybertron

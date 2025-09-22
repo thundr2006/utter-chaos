@@ -30,11 +30,12 @@ I'll start things off with my favourite game!
 * Sekiro
 * Slime Rancher  (1 and 2)
 * Squad
-Street Fighter III: Third Strike
+* Street Fighter III: Third Strike
 * Team Fortress 2
 * Terraria
 * Terraria (Calamity Mod)
 * Tokyo Xtreme Racer (2025)
 * Tokyo Xtreme Racer Drift 2
 * Transformers: Fall of Cybertron
+* Warframe
 * Wipeout HD Fury

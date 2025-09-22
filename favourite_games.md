@@ -23,6 +23,7 @@ I'll start things off with my favourite game!
 * Slime Rancher  (1 and 2)
 * Squad
 * Team Fortress 2
+* Terraria
 * Tokyo Xtreme Racer (2025)
 * Tokyo Xtreme Racer Drift 2
 * Transformers: Fall of Cybertron

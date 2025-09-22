@@ -7,4 +7,5 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* Ni no kuni wrath of the white witch
 * Portal 2

@@ -7,6 +7,7 @@ I'll start things off with my favourite game!
 ## The List
 * Ark Surival Evolved 
 * Bloodborne
+* Broken Arrow
 * cult of the lamb
 * Cyberpunk
 * Deltarune
@@ -16,5 +17,6 @@ I'll start things off with my favourite game!
 * Portal 2
 * Rocket League
 * Slime Rancher  (1 and 2)
+* Squad
 * Team Fortress 2
 * Transformers: Fall of Cybertron

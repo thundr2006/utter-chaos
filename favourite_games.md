@@ -5,7 +5,8 @@ Please add your favourite game to the bulleted list below, keeping the list in *
 I'll start things off with my favourite game!
 
 ## The List
-* Ark Surival Evolved 
+
+* Ark Survival Evolved
 * Armored Core 6
 * Balatro
 * Bayonetta 2
@@ -13,7 +14,7 @@ I'll start things off with my favourite game!
 * Broken Arrow
 * Celeste
 * Cities: Skylines
-* cult of the lamb
+* Cult of the Lamb
 * Cyberpunk
 * Dark Souls
 * Dark Souls 2
@@ -21,7 +22,7 @@ I'll start things off with my favourite game!
 * Deltarune
 * Demon Souls
 * Elden Ring
-* Ghost of Tsushima 
+* Ghost of Tsushima
 * Hades 1
 * Haste
 * Hollow Knight
@@ -33,7 +34,7 @@ I'll start things off with my favourite game!
 * Persona 5 Strikers
 * Pokemon Fire Red
 * Portal 2
-* Risk of rain 2
+* Risk of Rain 2
 * Satisfactory
 * Rocket League
 * Sekiro

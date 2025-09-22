@@ -8,3 +8,5 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Deltarune
+* Portal 2
+ 

@@ -1,5 +1,4 @@
 # utter-chaos
-
-Let's practice committing to a common repository together!
+Lettuce practice committing to a common repository together!
 
 Have a nice day everone! -Steven

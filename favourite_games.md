@@ -8,3 +8,4 @@ I'll start things off with my favourite game!
 
 * Baldur's Gate
 * Bloodborne
+* Portal 2

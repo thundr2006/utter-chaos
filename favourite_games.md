@@ -7,6 +7,7 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* cult of the lamb
 * Ni no kuni wrath of the white witch
 * Portal 2
 * Team Fortress 2

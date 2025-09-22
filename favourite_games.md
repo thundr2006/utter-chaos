@@ -18,5 +18,6 @@ I'll start things off with my favourite game!
 * Risk of rain 2
 * Satisfactory
 * Splatoon 3
+* Tetris
 * ULTRAKILL
 * UNBEATABLE

@@ -8,3 +8,4 @@ I'll start things off with my favourite game!
 
 * Bayonetta 2
 * Bloodborne
+* Portal 2

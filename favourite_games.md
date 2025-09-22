@@ -5,9 +5,10 @@ Please add your favourite game to the bulleted list below, keeping the list in *
 I'll start things off with my favourite game!
 
 ## The List
-* Ark Surival Evolved 
+
+* Ark Surival Evolved
 * Bloodborne
-* cult of the lamb
+* Cult of the Lamb
 * Cyberpunk
 * Deltarune
 * Marvel Rivals

@@ -6,4 +6,5 @@ I'll start things off with my favourite game!
 
 ## The List
 
+* Bayonetta 2
 * Bloodborne

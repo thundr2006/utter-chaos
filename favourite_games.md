@@ -7,9 +7,11 @@ I'll start things off with my favourite game!
 ## The List
 * Ark Surival Evolved 
 * Armored Core 6
+* Balatro
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow
+* Celeste
 * Cities: Skylines
 * cult of the lamb
 * Cyberpunk
@@ -20,22 +22,33 @@ I'll start things off with my favourite game!
 * Demon Souls
 * Elden Ring
 * Ghost of Tsushima 
+* Hades 1
+* Haste
+* Hollow Knight
 * Initial D: Special Stage
+* Katana ZERO
 * Marvel Rivals
+* Neon White
 * Ni no kuni wrath of the white witch
 * Persona 5 Strikers
 * Pokemon Fire Red
 * Portal 2
+* Risk of rain 2
+* Satisfactory
 * Rocket League
 * Sekiro
 * Slime Rancher  (1 and 2)
+* Splatoon 3
 * Squad
 * Street Fighter III: Third Strike
 * Team Fortress 2
+* Tetris
 * Terraria
 * Terraria (Calamity Mod)
 * Tokyo Xtreme Racer (2025)
 * Tokyo Xtreme Racer Drift 2
 * Transformers: Fall of Cybertron
+* ULTRAKILL
+* UNBEATABLE
 * Warframe
 * Wipeout HD Fury

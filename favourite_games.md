@@ -8,3 +8,8 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Pokemon Fire Red
+* Ni no kuni wrath of the white witch
+* Portal 2
+* Team Fortress 2
+* Transformers: Fall of Cybertron
+

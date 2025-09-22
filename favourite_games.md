@@ -18,6 +18,7 @@ I'll start things off with my favourite game!
 * Marvel Rivals
 * Ni no kuni wrath of the white witch
 * Persona 5 Strikers
+* Pokemon Fire Red
 * Portal 2
 * Rocket League
 * Slime Rancher  (1 and 2)

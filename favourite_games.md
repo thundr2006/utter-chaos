@@ -15,6 +15,7 @@ I'll start things off with my favourite game!
 * Hollow Knight
 * Katana ZERO
 * Neon White
+* Portal 2
 * Risk of rain 2
 * Satisfactory
 * Splatoon 3

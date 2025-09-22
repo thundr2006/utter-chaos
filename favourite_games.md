@@ -30,6 +30,7 @@ I'll start things off with my favourite game!
 * Sekiro
 * Slime Rancher  (1 and 2)
 * Squad
+Street Fighter III: Third Strike
 * Team Fortress 2
 * Terraria
 * Terraria (Calamity Mod)

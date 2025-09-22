@@ -6,13 +6,19 @@ I'll start things off with my favourite game!
 
 ## The List
 * Ark Surival Evolved 
+* Armored Core 6
 * Bayonetta 2
 * Bloodborne
 * Broken Arrow
 * Cities: Skylines
 * cult of the lamb
 * Cyberpunk
+* Dark Souls
+* Dark Souls 2
+* Dark Souls 3
 * Deltarune
+* Demon Souls
+* Elden Ring
 * Ghost of Tsushima 
 * Initial D: Special Stage
 * Marvel Rivals
@@ -21,10 +27,12 @@ I'll start things off with my favourite game!
 * Pokemon Fire Red
 * Portal 2
 * Rocket League
+* Sekiro
 * Slime Rancher  (1 and 2)
 * Squad
 * Team Fortress 2
 * Terraria
+* Terraria (Calamity Mod)
 * Tokyo Xtreme Racer (2025)
 * Tokyo Xtreme Racer Drift 2
 * Transformers: Fall of Cybertron

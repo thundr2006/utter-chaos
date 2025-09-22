@@ -8,6 +8,7 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * cult of the lamb
+* Deltarune
 * Ni no kuni wrath of the white witch
 * Portal 2
 * Team Fortress 2

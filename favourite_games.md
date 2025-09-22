@@ -7,3 +7,5 @@ I'll start things off with my favourite game!
 ## The List
 
 * Bloodborne
+* Bioshock
+* deadlock (#1 moba fight me)

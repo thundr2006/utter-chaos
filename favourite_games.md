@@ -9,7 +9,7 @@ I'll start things off with my favourite game!
 * Ark: Survival Evolved *(2017)*
 * Armored Core 6 *(2023)*
 * Balatro *(2024)*
-* Baldur's Gate
+* Baldur's Gate *(1998)*
 * Bayonetta 2 *(2014)*
 * Bloodborne *(2015)*
 * Broken Arrow *(2025)*
